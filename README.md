@@ -21,8 +21,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/news-application.git
-   cd news-application
+   git clone https://github.com/Abhishekthakurr/News-Web.git
+   cd news-app
 Install the dependencies:
 
 
